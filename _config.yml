@@ -1,10 +1,10 @@
 # Site settings
-title: Arctic Fox
-email:
+title: Michael Smith
+email: michaelsmith2018@u.northwestern.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
+  Portfolio
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://MichaelShaneSmith.github.io/" # the base hostname & protocol for your site
+url: "https://MichaelShaneSmith.github.io/" # the base hostname & protocol for your site
 twitter_username: username
 github_username: MichaelShaneSmith
 
