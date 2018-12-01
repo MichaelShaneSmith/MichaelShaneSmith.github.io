@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Education"
-date: 0000-00-00
+date: 1996-08-19
 categories:
 ---
 
