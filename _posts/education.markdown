@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Education"
-date: 2015-05-25
+date:
 categories:
 ---
 
-###Northwestern University | The Graduate School
+Northwestern University | The Graduate School
 {: style="text-align: center"}
 
 
@@ -16,7 +16,7 @@ Exp. June 2020
 {: style="text-align: center"}
 ---
 
-###Northwestern University | McCormick School of Engineering
+Northwestern University | McCormick School of Engineering
 {: style="text-align: center"}
 BS in Computer Science
 {: style="text-align: center"}
